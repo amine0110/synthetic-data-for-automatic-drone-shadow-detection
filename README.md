@@ -1,1 +1,1 @@
-# synthetic-data-for-automatic-drone-shadow-detection
+# Synthetic Data for Automatic Drone Shadow Detection

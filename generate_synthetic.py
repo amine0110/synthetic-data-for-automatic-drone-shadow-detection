@@ -9,6 +9,8 @@ Synthetic data generation –  is free software : you can redistribute it and/or
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
 See the PSF License for more details.  You should have received a copy of the … License along with this program.  
 If not, see Link to the license.
+https://docs.python.org/3/license.html#psf-license-agreement-for-python-release
+
 """
 
 

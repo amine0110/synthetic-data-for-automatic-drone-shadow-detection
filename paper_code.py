@@ -1,3 +1,17 @@
+
+"""
+Created by Mohammed El Amine Mokhtari
+ISIA Lab, Mons University, Belgium
+
+
+© - 2022 – UMONS-Numediart
+Synthetic data generation –  is free software : you can redistribute it and/or modify it under the terms of the PSF License. 
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+See the PSF License for more details.  You should have received a copy of the … License along with this program.  
+If not, see Link to the license.
+"""
+
+
 from PIL import Image, ImageFilter, ImageEnhance
 from glob import glob
 import random

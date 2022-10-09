@@ -7,7 +7,7 @@ The code consists of taking a png format of the drone shadow and superimposing i
 Using this script, you can generate as much data as you want with their corresponding bounding boxes.
 
 
-Link to the paper [here](https://orbi.umons.ac.be/handle/20.500.12907/43255).
+Link to the paper [here](https://doi.org/10.14428/esann/2022.ES2022-82).
 
 ## Operations
 - Random shape
